@@ -1,0 +1,20 @@
+[
+    {
+        "email":"luke.algumacoisaaqui@alura.com.br",
+        "fullName": "luke sobrenome qualquer",
+        "userName": "lukausqqq",
+        "password": "jsijoppaefff"
+    },
+    {
+        "email":"leia.algumacoisaaqui@alura.com.br",
+        "fullName": "leia sobrenome qualquer",
+        "userName": "leiaqqq",
+        "password": "huelalalaop"
+    },
+    {
+        "email":"anakin.algumacoisaaqui@alura.com.br",
+        "fullName": "anakin sobrenome qualquer",
+        "userName": "anakinkkk",
+        "password": "darthvadinho"
+    }
+]
