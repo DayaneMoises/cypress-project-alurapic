@@ -1,20 +1,21 @@
 [
-    {
-        "email":"luke.algumacoisaaqui@alura.com.br",
-        "fullName": "luke sobrenome qualquer",
-        "userName": "lukausqqq",
-        "password": "jsijoppaefff"
-    },
-    {
-        "email":"leia.algumacoisaaqui@alura.com.br",
-        "fullName": "leia sobrenome qualquer",
-        "userName": "leiaqqq",
-        "password": "huelalalaop"
-    },
-    {
-        "email":"anakin.algumacoisaaqui@alura.com.br",
-        "fullName": "anakin sobrenome qualquer",
-        "userName": "anakinkkk",
-        "password": "darthvadinho"
-    }
+         {
+          "email": "goku@example.com",
+          "fullName": "Son Goku",
+          "userName": "Goku",
+          "password": "dbz123"
+        },
+         {
+          "email": "vegeta@example.com",
+          "fullName": "Vegeta Prince",
+          "userName": "Vegeta",
+          "password": "prince123"
+        },
+       {
+          "email": "bulma@example.com",
+          "fullName": "Bulma Brief",
+          "userName": "Bulma",
+          "password": "capsule7"
+        }
+          
 ]

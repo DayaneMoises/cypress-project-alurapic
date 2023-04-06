@@ -37,7 +37,7 @@ describe('Cadastro de usuário na alurapic', () =>{
         cy.contains('ap-vmessage', 'Must be lower case').should('be.visible');
     })
 
-    const usuarios = require ('../../fixtures/usuarios.json')
+    const usuarios = require ('../fixtures/usuarios.json')
     usuarios.forEach(usuario => {
 
         it.only(`Registrar novo usuario ${usuario.userName}`, () => {
