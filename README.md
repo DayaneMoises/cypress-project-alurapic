@@ -13,12 +13,12 @@ Before running the tests, you need to have the following tools installed on your
 1. Navigate to the project folder and run the command `npm install` to install all dependencies.
 
 ## Running the tests
-To run the tests, simply run the command npm run test at the root of the project. This will start Cypress and run all automated tests.
+To run the tests, simply run the command `npm run test` at the root of the project. This will start Cypress and run all automated tests.
 
 You can also run individual tests using the command npm run `test:filename.spec.js`.
 
 # Project structure
-
+```
 ├── cypress
 │   ├── fixtures
 │   ├── integration
@@ -29,7 +29,7 @@ You can also run individual tests using the command npm run `test:filename.spec.
 ├── .env
 ├── package.json
 └── README.md
-
+```
 - cypress: Main project folder containing Cypress configuration files and test folders.
  - fixtures: Folder for storing test data files.
  - integration: Folder for storing test files.
